@@ -1,0 +1,16 @@
+{
+  "name": "litvirtualizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp esbuild"
+  },
+  "dependencies": {
+    "lit-virtualizer": "^0.4.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.6.3",
+    "gulp": "^4.0.2"
+  }
+}
